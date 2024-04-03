@@ -34,6 +34,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: var(--font-default);
+  font-size: 18px;
   color: var(--color-default);
 }
 
@@ -645,7 +646,7 @@ section {
 
 .about .content ul i {
   position: absolute;
-  font-size: 20px;
+  font-size: 24px;
   left: 0;
   top: -3px;
   color: var(--color-primary);
@@ -983,7 +984,7 @@ section {
 
 .services .service-item p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -1589,7 +1590,7 @@ section {
 }
 
 .faq .content p {
-  font-size: 15px;
+  font-size: 18px;
   color: #6c757d;
 }
 
@@ -2555,7 +2556,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  font-size: 14px;
+  font-size: 16px;
   background-color: var(--color-primary);
   padding: 50px 0;
   color: white;
@@ -2580,7 +2581,7 @@ section {
 }
 
 .footer .footer-info p {
-  font-size: 14px;
+  font-size: 16px;
   font-family: var(--font-primary);
 }
 
